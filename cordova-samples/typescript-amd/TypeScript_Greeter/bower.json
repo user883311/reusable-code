@@ -1,6 +1,0 @@
-{
-  "name": "TypeScript_Greeter",
-  "dependencies": {
-    "requirejs": "2.1.22"
-  }
-}

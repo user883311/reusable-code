@@ -23,6 +23,7 @@ class Api {
   }
 }
 
+// Example of implementation
 Future main() async {
   final String _url = 'flutter.udacity.com';
   final uri = new Uri.https(_url, "/currency");

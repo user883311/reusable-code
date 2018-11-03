@@ -1,6 +1,0 @@
-﻿# .gitignore
-[Pp]lugins/
-[Pp]latforms/
-node_modules/
-bower_components/
-www/scripts/
